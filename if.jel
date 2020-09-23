@@ -1,0 +1,7 @@
+var shitlist
+shitlist = "helloz"
+if (shitlist) = ("hello")
+ msgbox("fuck", "16", "title")
+else
+ msgbox("elsefuck", "16", "title")
+end

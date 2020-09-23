@@ -1,0 +1,5 @@
+var i
+while (i) < ("5")
+ i = i + "1"
+ msgbox(i, "16", "title")
+end

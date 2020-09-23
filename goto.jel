@@ -1,0 +1,4 @@
+goto shit:
+msgbox("shouldn't see this", "16", "title")
+shit:
+msgbox("done", "0", "title")
