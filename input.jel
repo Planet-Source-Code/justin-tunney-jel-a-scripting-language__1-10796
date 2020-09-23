@@ -1,0 +1,6 @@
+var name
+name ~ inputbox("Your name?", "title", "")
+while (name) = ("")
+ name ~ inputbox("Your name?", "title", "")
+end
+msgbox("You are: " & name, "32", "title")

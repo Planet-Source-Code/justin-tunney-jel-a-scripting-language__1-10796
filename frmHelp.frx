@@ -1,0 +1,10 @@
+ÿQuick Help With JEL
+
+Ok people who are new to JEL, here are a few basic rules of the language:
+
+1: Comments are just like in vb only instead of ', you have a #
+2: All constant strings/values must be surrounded by quotes, espeicially numbers!!!
+3: To pass data from a function into a variable, use a tilde (~) instead of an =.  Function calls can't be in equations.
+4: When calling functions always use ()'s
+5: When doing comparisons it's safest to put ()'s each side like: if ("5") > (i)
+5: See code for more help
